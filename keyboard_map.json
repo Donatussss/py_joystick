@@ -1,0 +1,36 @@
+{
+    "buttons": {
+        "1": "d",
+        "2": "a",
+        "3": "z",
+        "4": "x",
+        "L1": "tab",
+        "R1": "f",
+        "L2": "s",
+        "R2": "c",
+        "SELECT": "i",
+        "START": "esc",
+        "L3": "None",
+        "R3": "None"
+    },
+    "axes": {
+        "left_stick": {
+            "left": "left",
+            "right": "right",
+            "down": "down",
+            "up": "up"
+        },
+        "right_stick": {
+            "left": "None",
+            "right": "None",
+            "down": "down",
+            "up": "up"
+        }
+    },
+    "hats": {
+        "left": "left",
+        "right": "right",
+        "down": "down",
+        "up": "up"
+    }
+}
